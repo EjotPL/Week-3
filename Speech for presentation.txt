@@ -1,0 +1,35 @@
+Welcome to todays presentation of our observations and analysis from datesets provided by your company.
+My name is Patrick Potocki and i will present you my findings about the subject requested by you,
+
+In our first page we have agenda for basic insights of what the presentation will include.
+
+
+We are starting of as indicated in agenda which is the field of study which include : Intreduction
+
+As we  understand a bit more about our presentation order we can move to a bit of visualization and statistics
+of cases investigated in our approch to provide you with advice on which company to invest in.
+But first I would like to give you insights of data we will be looking at.
+
+
+ - After  cleaning the data sets from missing values and duplicated values we will be looking at the total of :
+ 
+ (Look at the page nr 4.)
+
+
+Moving up now to next step of our presentation, which is part two. We will go throught few visualizations,
+proving which company its an better option for you to invest in. 
+
+1. First up we got : (Bar Chart text)
+
+2. Next up in part two, provide us with information from comperation of companies service avaiable  in each city.
+We can see that the only Yellow Cab beats Pink Cab by far in most of the Cities, yet in Sacramento CA, San Diego CA and Nashville TN
+services of Pink Cab are bit higher then Yellow Cab. Also if we look at the fiq 3, we can clearly see that Yellow Cab,
+has a lot more covered then Pink Cab.
+
+3.  Going forward here we have fiq with income from each city, which provide us with information which cities
+bring the most income from each company. Same as in our two previous analysis, we can see that Yellow Cab has a lot,
+more potential then Pink Cab. 
+
+
+
+4. The higest frequency of demand in cab services are people in age of 23, next one is 20 then 27 and so on.
